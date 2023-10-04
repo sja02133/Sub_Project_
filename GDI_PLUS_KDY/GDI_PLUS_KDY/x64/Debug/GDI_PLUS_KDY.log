@@ -1,0 +1,9 @@
+﻿  GDI_PLUS_KDYView.cpp
+C:\Users\KDY\source\repos\GDI_PLUS_KDY\GDI_PLUS_KDY\GDI_PLUS_KDYView.cpp(175,28): warning C4305: '=': truncation from 'int' to 'BYTE'
+C:\Users\KDY\source\repos\GDI_PLUS_KDY\GDI_PLUS_KDY\GDI_PLUS_KDYView.cpp(175,24): warning C4309: '=': truncation of constant value
+C:\Users\KDY\source\repos\GDI_PLUS_KDY\GDI_PLUS_KDY\GDI_PLUS_KDYView.cpp(293,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\KDY\source\repos\GDI_PLUS_KDY\GDI_PLUS_KDY\GDI_PLUS_KDYView.cpp(297,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\KDY\source\repos\GDI_PLUS_KDY\GDI_PLUS_KDY\GDI_PLUS_KDYView.cpp(297,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\KDY\source\repos\GDI_PLUS_KDY\GDI_PLUS_KDY\GDI_PLUS_KDYView.cpp(299,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\KDY\source\repos\GDI_PLUS_KDY\GDI_PLUS_KDY\GDI_PLUS_KDYView.cpp(299,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GDI_PLUS_KDY.vcxproj -> C:\Users\KDY\source\repos\GDI_PLUS_KDY\x64\Debug\GDI_PLUS_KDY.exe

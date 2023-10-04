@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: toolbar - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\I_CAFE~1\LOCALS~1\Temp\RSP18E.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/toolbar.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\toolbar(4)\MainFrm.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\I_CAFE~1\LOCALS~1\Temp\RSP18E.tmp" 
+Creating temporary file "C:\DOCUME~1\I_CAFE~1\LOCALS~1\Temp\RSP18F.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/toolbar.pdb" /debug /machine:I386 /out:"Debug/toolbar.exe" /pdbtype:sept 
+".\Debug\Line.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\toolbar.obj"
+".\Debug\toolbarDoc.obj"
+".\Debug\toolbarView.obj"
+".\Debug\toolbar.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\I_CAFE~1\LOCALS~1\Temp\RSP18F.tmp"
+<h3>Output Window</h3>
+Compiling...
+MainFrm.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/toolbar.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\Line.sbr" ".\Debug\MainFrm.sbr" ".\Debug\toolbar.sbr" ".\Debug\toolbarDoc.sbr" ".\Debug\toolbarView.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+toolbar.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
