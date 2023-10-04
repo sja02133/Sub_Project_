@@ -1,0 +1,5 @@
+## "##" is annotation ex) ## here is annotation
+
+#SERVER IP:PORT
+192.168.2.190:5432
+127.0.0.1:5432
